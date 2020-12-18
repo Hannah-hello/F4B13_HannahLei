@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Hannah Lei</title>
+	<style>
+		*{box-sizing: border-box}
+		header{background-color:#a87088;text-align:center;font-size:300%;padding:10px;font-family:courier}
+		nav{float:left;padding: 0;margin: 0;width:100%}
+		ul{list-style-type: none;padding: 0;margin: 0}
+		li{float:left}
+		a{display: block;padding: 5px;}
+		a:hover{background-color:#AA7172;}
+		article{background-color:#EFC0C0}
+		footer {background-color:#A38989;padding: 10px;text-align: center;color: white;}
+		img{height:350px;weight:350px}
+	</style>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
 
-You can use the [editor on GitHub](https://github.com/Hannah-hello/F4B13_HannahLei/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+	<header>
+		Hannah Lei
+		
+	</header>
+<div>
+		
+			<table>
+				<nav>
+					<ul>
+					<li><a href="index.html">About Me</a></li> 
+					<li><a href="EducationBackground .html">Education Background</a></li> 
+					<li><a href="WorkingExperience .html">Working Experience</a></li> 
+					<li><a href="ExtracurricularActivities.html">Extracurricular Activities</a></li> 
+					<li><a href="CertificationsandAwards.html">Certifications and Awards</a></li> 
+					<li><a href="ContactInformation .html">Contact Information</a></li> 
+	                </ul>
+				</nav>
+		</table>
+	
+	</div>
+	
+	<section>
+		
+	<aside><p></p></aside>
+	
+		
+	<article> 
+		<h1> Hello, I am Hannah.</h1>
+		<p>I am a F4 student in Sacred Heart Canossian College (English Section)</p>
+		<p>I like watching movies, at least once a month. I go ride bicycle on weekends and play piano whenever I get time. I like to involve in voluntary work since this can help a lot of people. I am quite talkative and active in class.</p>
+		<p>My hobby is singing and dancing. My favourite subjects are Visual Arts and Chinese. I like to play with my friend.</p>
+		
+		
+		<hr>
+		
+		
+	</article>
+		
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hannah-hello/F4B13_HannahLei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		
+	</section>
+	
+	<footer> 
+	F4B Hannah Lei
+		<table>
+			
+		</table>
+	  
+		
+</footer>
+	<img class="Hannah" src="Hannah.png">
+</body>
+</html>
